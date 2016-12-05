@@ -1,0 +1,20 @@
+.item
+{
+  background: #F0F0F0;
+  margin: 3px;
+  padding: 3px;
+  cursor: pointer;
+  border-radius:8px;
+  float: left;
+  display:inline-block;
+}
+.item:hover
+{
+  background: #E0E0E0;
+}
+.item_selected
+{
+  cursor: default;
+  background: gold !important;
+}
+
